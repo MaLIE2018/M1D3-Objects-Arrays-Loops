@@ -96,7 +96,6 @@ const car = {
     brand: "Fiat",
     model: "500",
     licensePlate: "AA 214 RE"
-
 }
 
 for (let i = 0; i < 5; i++) {
